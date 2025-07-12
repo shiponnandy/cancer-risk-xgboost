@@ -56,7 +56,7 @@ Final test predictions saved as `result_on_selected_test.csv` and is uploaded.
 
 ## 🤝 Acknowledgments
 
-Thanks to **Kaggle**, **XGBoost**, and the ML-AI Hackathon organizers.
+Thanks to **Kaggle**, **XGBoost**, and the IITG ML-AI Hackathon organizers.
 
 ---
 
