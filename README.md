@@ -4,7 +4,7 @@ This project builds a cancer risk prediction model using a **semi-supervised mac
 
 ---
 
-## 📁 Project Structure
+## 📁 Project ipynb Files
 
 | File | Description |
 |------|-------------|
