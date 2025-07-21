@@ -39,7 +39,7 @@ Final test predictions saved as `result_on_selected_test.csv` and is uploaded.
   With over **14,500 features**, selecting the most informative 500–1000 was non-trivial. We used **Recursive Feature Elimination (RFE)** with Random Forest and Logistic Regression.
 
 - 🧮 **Time-Consuming Tuning**  
-  Hyperparameter tuning with **GridSearchCV** (5-fold cross-validation × 216 combinations) was computationally heavy.
+  Hyperparameter tuning with **GridSearchCV** (5-fold cross-validation) was computationally heavy.
 
 - 🧭 **Missing Ground Truth on Test Set**  
   Since the test set had no labels, we relied on confidence scores, ROC-AUC plots, and validation performance to evaluate our model.
